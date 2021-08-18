@@ -1,0 +1,11 @@
+{
+    "KPIs": [
+        {"name": "ABAP_INST_DIALOG_CLIENT_USERS"},
+        {"name": "ABAP_INST_DIALOG_USERS"},
+        {"name": "ABAP_INST_TOTAL_USERS"},
+        {"name": "ABAP_SYST_DIALOG_USERS"},
+        {"name": "ABAP_SYST_TOTAL_USERS"},
+        {"name": "ABAP_SYS_USERS_PER_APPSERVER"},
+        {"name": "DIALOG_FRONTEND_NETWORK_TIME"}
+    ]
+}
